@@ -160,6 +160,8 @@ See: events
 // TODO: Add Wireframe Images
 https://www.figma.com/file/fTQDZNR2ldnABBTU9tLRqSSZ/Untitled?node-id=0%3A1
 ---
+<img src="http://g.recordit.co/O8Kwq6FjeB.gif" width=200><br>
+
 
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck
