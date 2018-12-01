@@ -159,8 +159,7 @@ See: events
 ### Wireframes
 https://www.figma.com/file/fTQDZNR2ldnABBTU9tLRqSSZ/Space-Renter?node-id=0%3A1
 ---
-<img src="https://media.giphy.com/media/1SuFNvrREAYdr9vOLz/giphy.gif
-" width=200><br>
+<img src="https://media.giphy.com/media/1SuFNvrREAYdr9vOLz/giphy.gif" width=200><br>
 
 
 ### App Pitch Presentation
