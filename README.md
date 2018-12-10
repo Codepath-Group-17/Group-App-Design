@@ -162,5 +162,8 @@ https://www.figma.com/file/fTQDZNR2ldnABBTU9tLRqSSZ/Space-Renter?node-id=0%3A1
 <img src="https://media.giphy.com/media/1SuFNvrREAYdr9vOLz/giphy.gif" width=200><br>
 
 
-### App Pitch Presentation
+### App Pitch Presentation:
 https://docs.google.com/presentation/d/1KnIFgnYufevuuV6kdjP4idzu9Ss1vXztFQ1jIjXaYh8/edit?usp=sharing
+
+### Video Link:
+https://www.youtube.com/watch?v=a_n9VxD0giA&feature=youtu.be
